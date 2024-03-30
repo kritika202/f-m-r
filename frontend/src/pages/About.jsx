@@ -3,8 +3,8 @@ export const About = () => {
         <section>
             <h3>About</h3>
             <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, voluptatem iste fuga laudantium tempore nam quod dolore voluptatum dolores saepe sapiente possimus repellendus, praesentium facere esse. Ut, in. Aperiam distinctio itaque fugiat deserunt quas doloribus ad possimus adipisci modi temporibus ab beatae ut enim cum porro quidem consectetur, eligendi corporis alias. Molestiae necessitatibus adipisci soluta reiciendis ducimus architecto qui reprehenderit provident, facere, nostrum exercitationem! Omnis atque nulla, sapiente quibusdam nam rem! Debitis ad magnam molestiae quam, nemo adipisci deserunt nam delectus. Eos fugiat dolores sed nobis at dolorem, reprehenderit id, laudantium odit natus iste animi ducimus sunt vero minima repellendus!
-            </p>
+            Virtual sensors leverage developments on the artificial intelligence and machine learning front to allow for data-driven approaches to estimate key process parameters. In addition to being less expensive, virtual sensors provide an interesting alternative when a physical sensor cannot be placed in the preferred position due to spatial conditions (e.g. lack of room for a sensor) or a hostile environment (e.g. exposure to acids or extreme temperatures). Virtual sensor technology can reduce signal noise and, thus, increase confidence in the signals when a sensor’s output is confirmed by other sensors measuring the same phenomenon. Finally, virtual sensors are extremely flexible and can be redesigned as required, whereas physical sensors, once installed, often can only be repositioned by mechanical intervention.
+                </p>
         </section>
     )
 }

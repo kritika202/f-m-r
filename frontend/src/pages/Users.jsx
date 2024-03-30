@@ -149,7 +149,7 @@ export const Users = () => {
                                     <th>Name</th>
                                     <th>Email</th>
                                     <th>Password</th>
-                                    <th>Actions</th>
+                                    <th>CSV File</th>
                                 </tr>
                             </thead>
                             <tbody>
